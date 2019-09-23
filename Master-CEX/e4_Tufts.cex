@@ -1,0 +1,86 @@
+// 
+
+#!cexversion
+3.0
+
+#!citelibrary
+name#Working on Omega 1.12
+urn#urn:cite2:cex:fufolio.2019a:omega_1_12_working
+license#CC Share Alike. For details, see more info.
+
+
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:greekLit:msOmega112.paraphrase.temp:#book/colon#MS Omega 1.12#Prose Paraphrase#Working Edition##true#grc
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:#Plaintext#Homeric Epic#Iliad#MS Omega 1.12, Book 10, in-progress at Furman##true#grc
+
+#!ctsdata
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.1#Ἄλλοι μὲν παρὰ νηυσὶν ἀριστῆες Παναχαιῶν 
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.2#εὗδον παννύχιοι μαλακῷ δεδμημένοι ὕπνῳ·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.3#ἀλλ' οὐκ Ἀτρείδην Ἀγαμέμνονα ποιμένα λαῶν
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.4#ὕπνος ἔχε γλυκερὸς. πολλὰ φρεσὶν ὁρμαίνοντα·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.5#ὡς δ' ὅτἂν ἀστράπτη πόσις Ἥρης ἠϋκόμοιο·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.6#τεύχων ἢ πολὺν ὄμβρον. ἀθέσφατον ἠὲ χάλαζαν·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.7#ἢ νιφετὸν ὅτε πέρ τε χιὼν ἐπάλυνεν ἀρούρας.
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.8#ἠέ ποθι πτολέμοιο μέγα στόμα πευκεδανοῖο·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.9#ὣς πυκίν' ἐν στήθεσσιν ἀνεστενάχιζ' Ἀγαμέμνων·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.10#νειόθεν ἐκ κραδίης· τρομέοντο δέ οἱ φρένες ἐντός·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.11#ἤτοι ὅτ' ἐς πεδίον τὸ Τρωϊκὸν ἀθρήσειε.
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.12#θαύμαζεν πυρὰ πολλὰ τὰ καίετο Ἰλιόθι πρό·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.13#αὐλῶν συρίγγων τ' ἐνοπὴν ὅμαδόν τ' ἀνθρώπων·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.14#αὐτὰρ ὅτ' ἐς νῆας τε ἵδοι καὶ λαὸν Ἀχαιῶν: 
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.15#πολλὰς ἐκ κεφαλῆς προθελύμνους ἕλκετο χαίτας
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.16#ὑψόθ' ἐόντι Διΐ· μέγα δ' ἔστενε κυδάλιμον κῆρ·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.17#ἧδε δέ οἱ κατὰ θυμὸν ἀρίστη φαίνετο βουλὴ·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.18#Νέστορ' ἐπὶ πρῶτον Νηλήϊον ἐλθέμεν ἀνδρῶν.
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.19#εἴ τινά οἱ σὺν μῆτιν ἀμύμονα τεκτήναιτο·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.20#ἥ τις ἀλεξίκακος πᾶσιν  Δαναοῖσι  γένοιτο·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.21#ὀρθωθεις δ' ἔνδυνε περὶ στήθεσσι χιτῶνα·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.22#ποσσί δ' ὑπὸ λιπαροῖσιν ἐδήσατο καλὰ πέδιλα·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.23#ἀμφι δ' ἔπειτα δαφοινὸν ἑέσσατο δέρμα λέοντος
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.24#αἴθωνος, μεγάλοιο ποδηνεκὲς· εἵλετο δ' ἔγχος·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.25#ὡς δ' αὕτως Μενέλαον ἔχε τρόμος. οὐδὲ γὰρ αὐτῷ
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.26#ὕπνος ἐπὶ βλεφάροισιν ἐφίζανε. μή τι πάθοιεν
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.27#Ἀργεῖοι· τοὶ δὴ ἕθεν εἵνεκα, πουλὺν ἐφ' ὑγρὴν
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.28#ἤλυθον ἐς Τροίην, πόλεμον θρασὺν ὁρμαίνοντες·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.29#παρδαλέῃ μὲν πρῶτα μετάφρενον εὐρὺ κάλυψε
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.30#ποικίλῃ· αὐτὰρ ἐπὶ στεφάνην κεφαλῇφιν ἀείρας
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.31#θήκατο χαλκείην· δόρυ δ' εἵλετο χειρὶ παχείῃ·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.32#βῆ δ' ἵμεν ἀνστήσων ὃν ἀδελφέον· ὃς μέγα πάντων
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.33#Ἀργείων ἤνασσε· θεος δ' ὡς, τίετο δήμῳ·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.34#τὸν δ' εὗρ' ἀμφ' ὤμοισι τιθήμενον ἕντεα καλὰ
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.35#νηῒ παρα πρύμνῃ· τῷ δ' ἀσπάσιος γένετ' ἐλθών·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.36#τὸν πρότερος προσέειπε βοὴν ἀγαθὸς, Μενέλαος·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.37#τίφθ' οὕτως ἠθεῖε κορύσσεαι· ἦ τιν' ἑταίρων
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.38#ὀτρύνεις Τρώεσσιν ἐπίσκοπον; ἀλλὰ μάλ' αἰνῶς
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.39#δείδω, μὴ οὔ τις τοι ὑπόσχηται τόδε ἔργον·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.40#ἄνδρας δυσμενέας σκοπιαζέμεν οἶος ἐπελθὼν
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.41#νύκτα δι' ἀμβροσίην· μάλα τις θρασυκάρδιος ἕσται·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.42#Τὸν δ' ἀπαμειβόμενος προσέφη κρείων Ἀγαμέμνων·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.43#χρεὼ βουλῆς ἐμὲ καὶ σὲ διοτρεφὲς ὦ Μενέλαε
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.44#κερδαλέης· ἥ τίς κεν ἐρύσσεται ἠδὲ σαώσει
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.45#Ἀργείους καὶ νῆας. ἐπεὶ Διὸς ἐτράπετο φρήν·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.46#Ἑκτορέοις ἄρα μᾶλλον ἐπὶ φρένα θῆχ' ἱ̈εροῖσιν·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.47#οὐ γάρ πω ἰδόμην οὐδ' ἔκλυον αὐδήσαντος,
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.48#ἄνδρ' ἕνα τοσσάδε μέρμερ' ἐπ' ἤματι μητίσασθαι;
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.49#ὅσσ' Ἕκτωρ ἔρρεξε Διῒ φίλος υἷας Ἀχαιῶν·
+urn:cts:greekLit:tlg0012.tlg001.e4_fu:10.50#αὕτως οὔτε θεᾶς υἱὸς φίλος, οὔτε θεοῖο·
+
+#!ctsdata
+urn:cts:greekLit:msOmega112.paraphrase.temp:10.1#κάππα δ’ ὰρ ἀμφοτέρων σκοπιαζέμεν ἤλυθον ἄνδρες οἱ μὲν λοιποὶ ἐπὶ ταῖς ναυσὶν ἀριστεῖς πάντων τὼν ἑλλήνων ἐκοιμῶντο δι’ ὅλης τῆς νυκτὸς τῷ ἡδεὶ ὑπνῷ κατεχόμενοι ἀλλ’ οὐ τὸν Ἀτρέως υἱὸν Ἀγαμέμνονα τὸν βασιλέα τῶν ὄχλων ὁ ἡδὺ¨ς ὕπνος κατελάμβανε πολλὰ ταῖς διανοίαις μεριμνῶντα ὥσπερ δ’ ὅτ’ ἂν ἀστράπτη ὁ τῆς καλλικόμου Ἥρας ἀνὴρ Ζεὺς ποιῶν ἢ πολὺ¨ν ὄμβρον· 
+urn:cts:greekLit:msOmega112.paraphrase.temp:10.2#ἢ χάλαζαν ἄπειρον ἢ νιφετὸν· 
+urn:cts:greekLit:msOmega112.paraphrase.temp:10.3#ὅτε περ ἡ χιὼν ἐλεύκανε τὴν γῆν ἢ δὴ πολέμου τοῦ πικροῦ τὸ μέγα στόμα, οὕτως συνεχῶς ἐν ταῖς διανοιαις ἐστέναξεν ὁ Ἀγαμέμνων.  
+urn:cts:greekLit:msOmega112.paraphrase.temp:10.4#κάτωθεν ἐκ τῆς καρδίας· 
+urn:cts:greekLit:msOmega112.paraphrase.temp:10.5#ἔτρεμον καὶ αὐτοῦ ἐντὸς αἱ διάνοιαι. 
+urn:cts:greekLit:msOmega112.paraphrase.temp:10.6#ὅταν εἰς τὸ πεδίον τὸ τῶν τρώων ἀπίδοι ἐθαύμαζε μὲν τὰ πολλὰ πυ¨ρὰ ἃπερ ἐκαίετο πρὸ τῆς Ἰ¨λίου, τῶν τε αὐλῶν καὶ συρίγγων τὸν ἦκον καὶ τὴν ταράχην τῶν ἀνθώπων. 
+urn:cts:greekLit:msOmega112.paraphrase.temp:10.7#ὅτε καὶ εἰς τὰς ναῦς ἀπίδοι καὶ τὸν λαὸν τῶν ἑλλήνων πολλὰς ἐκ τῆς κεφαλῆς προρρίζας ἀφηρεῖτο τρίχας ὑ¨ψόθεν ὄντι τῷ Διῒ· 
+urn:cts:greekLit:msOmega112.paraphrase.temp:10.8#μεγάλως καὶ ἐστέναζεν ἡ συνετὴ ψυχή· 
+urn:cts:greekLit:msOmega112.paraphrase.temp:10.9#αὕτη καὶ αὐτῷ κατὰ τὴν ψυχὴν καλλίστη ἐφαίνετο ἡ βουλή· 
+urn:cts:greekLit:msOmega112.paraphrase.temp:10.10#πρῶτον ἐπὶ τὸν Νέστορα τοῦ Νηλεΐου παραγενέσθαι ἐκ πάντων ἀνδρῶν εἴπας αὐτῷ τινὰ συμβούλην ἀγαθὴν ὑπόθοιτο ἥτις ἀποτρεπικὴ τῶν κακῶν πᾶσι τοῖς Ἥλλησι γενοιτο· 
+urn:cts:greekLit:msOmega112.paraphrase.temp:10.11#ἀναστὰς καὶ ἐνεδύσατο περὶ τὸ σῶμα τὸν χιτῶν ὑπὸ καὶ τοῖς εὐστραφέσι ποσὶν ὑπεδεήσατο καλὰ ὑποδήματα ἔπειτα καὶ φονευτικὸν ἠμφιάσατο δέρμα λέοντος διαπύρου καὶ μεγάλου μέχρι ποδῶν καθῆκον· 
+urn:cts:greekLit:msOmega112.paraphrase.temp:10.12#ἔλαβες καὶ δόρου· ὡς αὐτῶς καὶ δέος τὸν Μενέλαον περιέσχε τρόμος· 
+urn:cts:greekLit:msOmega112.paraphrase.temp:10.13#οὐδ’ αὐτῷ γὰρ ὕπνος ἐπὶ τοῖς βλεφάροις ἐπερχετο μὴ πῶς πάθοιέν τι οἱ Ἕλληνες· 
+urn:cts:greekLit:msOmega112.paraphrase.temp:10.14#οἵτινες αὐτοῦ ἕνεκα ἐπὶ πολλὴν θάλασσαν ἦλθον εἰς τὴν Τροίαν πόλεμον τολμηρὸν παρορμῶντες· 
+urn:cts:greekLit:msOmega112.paraphrase.temp:10.15#πρῶτα μὲν παρδάλεως δέρματι τὸ πλατὺ μετάφρενον ἐκάλυ¨ψε ποικιλτῷ· 
+urn:cts:greekLit:msOmega112.paraphrase.temp:10.16#περικεφαλαίαν καὶ ἐπὶ τῇ κεφάλῂ ἄρας ἐπέθηκε σιδηρᾶν· 
+urn:cts:greekLit:msOmega112.paraphrase.temp:10.17#δόρυ καὶ ἔλαβε τῇ ἰ¨αχρᾷ χειρὶ·

@@ -17,7 +17,9 @@ def showMe(v:Any):Unit = {
 }
 
 def loadLibrary(fp:String):CiteLibrary = {
-	val library = CiteLibrary(Source.fromFile(fp).getLines.mkString("\n"))
+	val lineVec: Vector[String] = Source.fromFile(fp).getLines.toVector
+	val cexString: String = lineVec.mkString("\n")
+	val library = CiteLibrary(cexString)
 	library
 }
 

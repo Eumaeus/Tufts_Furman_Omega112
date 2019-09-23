@@ -4,7 +4,7 @@ name := "workbench"
 version := "0.0.1"
 
 // must be at least 2.11 to use hmt_textmodel
-scalaVersion := "2.12.8"
+scalaVersion := "2.12.10"
 
 run / connectInput := true
 

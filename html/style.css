@@ -1,0 +1,24 @@
+html {
+
+}
+
+h1 {
+	font-family: 'Tangerine', serif;
+	font-size: 48pt;
+}
+
+p {
+		font-family: "Helvetica", sans-serif;
+		border: 1px solid navy;
+		border-radius: 6px;
+}
+
+span.cite {
+	border: 1px solid navy;
+	color: white;
+	background-color:navy;
+	border-top-left-radius: 6px;
+	border-bottom-left-radius: 6px;
+	padding-left: 4px;
+	padding-right: 4px;
+}

@@ -67,10 +67,21 @@ lazy val iliadLemmata = corp ~~ iLU
 lazy val formsHisto = makeHisto(iliadForms)
 lazy val lemmataHisto = makeHisto(iliadLemmata)
 
-/* Given a histogram, return the elements whose frequency sums to a given
-   percentage of the whole.
+/** Given a histogram, return the elements whose frequency sums to a given
+  * percentage of the whole.
+  * @param histo the Vector[(String, Int)] we are working with
+  * @param targetPercent the Int that is the percentage we want to take from the histogram
+  * @return a slice of the original histogram, whose members represent the requested percentage of the whole
 */
 def takePercent( histo: Vector[(String, Int)], targetPercent: Int): Vector[(String, Int)] = {
+
+	/** You can define functions _inside_ other functions!
+	  * We define this so we can recurse until we get the right percentage.
+	  * @param totalInstances the sum of the whole, which needs to be passed through each iteration, since the histo gets smaller each time
+	  * @param h the histogram for this recursion
+	  * @param justNumbers Just the freqency-values of the histogram, so we don't have to map the whole thing on each recursion
+	  * @return either the final histogram, or a recursion
+	**/
 	@tailrec def sumTakePercent(totalInstances: BigInt, h: Vector[(String, Int)], justNumbers: Vector[Int]): Vector[(String, Int)] = {
 		val sum: BigInt = justNumbers.sum
 		val currentPercent: Double = (sum.toDouble / totalInstances.toDouble) * 100
@@ -80,6 +91,8 @@ def takePercent( histo: Vector[(String, Int)], targetPercent: Int): Vector[(Stri
 			sumTakePercent( totalInstances, h.tail, justNumbers.tail )
 		}
 	}
+
+
 	val t: BigInt = histo.map(_._2).sum
 	val h: Vector[(String, Int)] = histo.sortBy(_._2) // we want _ascending_ order!
 	val n: Vector[Int] = h.map(_._2) // we don't want to re-map the whole histo each time!

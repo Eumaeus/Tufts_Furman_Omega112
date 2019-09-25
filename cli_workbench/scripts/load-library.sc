@@ -4,7 +4,7 @@ import edu.holycross.shot.cite._
 :load utilities.sc
 
 // Config Stuff
-val cexfile: String = "texts/iliads.cex"
+val cexfile: String = "/Users/cblackwell/Dropbox/CITE/digital-libraries/fuCiteDX/tokenized_exemplars/iliad_odyssey_all.cex"
 
 // Load our CITE Library
 val lib: CiteLibrary = loadLibrary(cexfile)

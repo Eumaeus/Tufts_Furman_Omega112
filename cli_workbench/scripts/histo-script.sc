@@ -7,11 +7,11 @@ import edu.holycross.shot.cite._
 val cexfile: String = "texts/hmt_test.cex"
 
 // Load our CITE Library
-val lib: CiteLibrary = loadLibrary(cexfile)
+lazy val lib: CiteLibrary = loadLibrary(cexfile)
 
-val tr: TextRepository = lib.textRepository.get
+lazy val tr: TextRepository = lib.textRepository.get
 
-val corp: Corpus = tr.corpus
+lazy val corp: Corpus = tr.corpus
 
 val iliadUrn: CtsUrn = CtsUrn("urn:cts:greekLit:tlg0012.tlg001:")
 val msAUrn: CtsUrn = iliadUrn.addVersion("msA")

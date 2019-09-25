@@ -19,6 +19,11 @@ def goodFact(n: BigInt): BigInt = {
 	factTailRec(1, n)
 }
 
+def badSum(n: Long): Long = {
+	if (n == 0) n
+	else n + badSum(n - 1)
+}
+
 def goodSum(n: BigInt): BigInt = {
 	@tailrec def sumTailRec(runningTotal: BigInt, n: BigInt): BigInt = {
 		if (n == 0) runningTotal 

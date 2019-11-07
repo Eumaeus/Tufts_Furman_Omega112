@@ -61,8 +61,8 @@ val oTU = CtsUrn("urn:cts:greekLit:tlg0012.tlg002.murray.token:")
 val oLU = CtsUrn("urn:cts:greekLit:tlg0012.tlg002.murray.lemmatizedToken:")
 val oLMU = CtsUrn("urn:cts:greekLit:tlg0012.tlg002.murray.lemmatizedToken_merged:")
 
-lazy val iliadForms = corp ~~ iTU
-lazy val iliadLemmata = corp ~~ iLU
+lazy val iliadForms = corp >= iTU
+lazy val iliadLemmata = corp >= iLU
 
 lazy val formsHisto = makeHisto(iliadForms)
 lazy val lemmataHisto = makeHisto(iliadLemmata)

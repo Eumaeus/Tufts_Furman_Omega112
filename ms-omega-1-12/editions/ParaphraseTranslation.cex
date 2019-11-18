@@ -1,3 +1,19 @@
+#!cexversion
+3.0
+
+#!citelibrary
+name#Working on Omega 1.12
+urn#urn:cite2:cex:fufolio.2019a:omega_1_12_working
+license#CC Share Alike. For details, see more info.
+
+
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:greekLit:tlg0012.tlg001.allen.lemmatizedToken:#Book/Line/Token#Homeric Epic#Iliad#Perseus Greek, following Allen#lemmatized tokens#true#grc
+urn:cts:greekLit:tlg0012.tlg001.allen.lemmatizedToken_merged:#Book/Line#Homeric Epic#Iliad#Perseus Greek, following Allen#lemmatized tokens, merged into poetic lines#true#grc
+
+
+#!ctsdata
 urn:cts:greekLit:msOmega112.paraphrasetranslation.temp:10.1#The remaining nobles, all the Hellenes, were sleeping beside the ships through the whole night being held fast in sweet sleep, but sweet sleep did not take the son of Atreus, Agamemnon, the king of the multitude, meditating on many thoughts as when Zeus, the husband of beautiful-haired Hera, makes a lot of lightning before heavy rains, boundless hail or snow, when the snow covers the earth or the big mouth of bitter war, thus Agamemnon sighed together with his thoughts. 
 urn:cts:greekLit:msOmega112.paraphrasetranslation.temp:10.2#And his heart below trembled from the thoughts within him. 
 urn:cts:greekLit:msOmega112.paraphrasetranslation.temp:10.3#When he looked over the plain, the one of Troy, he marveled at the many fires kindled before Ilium and at the flutes and panpipes being there and the disorder of the people. 

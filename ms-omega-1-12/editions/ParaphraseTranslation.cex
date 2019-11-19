@@ -1,14 +1,15 @@
+
 #!cexversion
 3.0
 
 #!citelibrary
-name#CEX Library created by CEXWriter
-urn#urn:cite2:cex:TEMPCOLL.TEMPVERSION:TEMP_ID
-license#Public Domain.
+name#Working on Omega 1.12
+urn#urn:cite2:cex:fufolio.2019a:omega_1_12_working
+license#CC Share Alike. For details, see more info.
 
 #!ctscatalog
 urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
-urn:cts:greekLit:msOmega112.paraphrasetranslation.temp.token:#book/colon/token#MS Omega 1.12#Prose Paraphrase#Working Edition#Tokenized#true#grc
+urn:cts:greekLit:msOmega112.paraphrasetranslation.temp.token:#book/colon/token#MS Omega 1.12#Prose Paraphrase Translation#Working Edition#Tokenized#true#eng
 urn:cts:greekLit:tlg0012.tlg001.e4_fu.token:#Plaintext/token#Homeric Epic#Iliad#MS Omega 1.12, Book 10, in-progress at Furman#Tokenized#true#grc
 
 #!ctsdata

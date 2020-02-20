@@ -10,8 +10,9 @@ license#CC Share Alike. For details, see more info.
 #!ctscatalog
 urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
 urn:cts:greekLit:msOmega112.paraphrasetranslation.temp:#book#MS Omega 1.12#Prose Paraphrase Translation#Working Edition##true#eng
-urn:cts:greekLit:msOmega112.paraphrasetranslation.temp:#book#MS Omega 1.12#Prose Paraphrase#Working Edition##true#grc
+urn:cts:greekLit:msOmega112.paraphrase.temp:#book#MS Omega 1.12#Prose Paraphrase#Working Edition##true#grc
 urn:cts:greekLit:tlg0012.tlg001.perseus_grc2:#book/line#Homeric Epic#Iliad#Greek. Allen, ed. Perseus Digital Library. Creative Commons Attribution 3.0 License##true#grc
+
 #!ctsdata
 // Paraphrase Translation
 urn:cts:greekLit:msOmega112.paraphrasetranslation.temp:10.1#The remaining nobles, all the Hellenes, were sleeping beside the ships through the whole night being held fast in sweet sleep, but sweet sleep did not take the son of Atreus, Agamemnon, the king of the multitude, meditating on many thoughts as when Zeus, the husband of beautiful-haired Hera, makes a lot of lightning before heavy rains, boundless hail or snow, when the snow covers the earth or the big mouth of bitter war, thus Agamemnon sighed together with his thoughts. 

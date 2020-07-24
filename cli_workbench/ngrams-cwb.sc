@@ -20,9 +20,9 @@ val odysseyUrn = CtsUrn("urn:cts:greekLit:tlg0012.tlg002.murray:")
 // Get NGrams
 
 /* User-editable values */
-val myN: Int = 6
-val myThreshold: Int = 10
-val fileName: String = "ngram-output.md"
+val myN: Int = 6 // how many words in the pattern
+val myThreshold: Int = 10 // occurs more than this many times
+val fileName: String = "ngram-output.md" // save in `texts/` under this name
 
 /* end User-editable values */
 

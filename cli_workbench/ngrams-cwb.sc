@@ -29,6 +29,8 @@ val fileName: String = "ngram-output.md" // save in `texts/` under this name
 val myNGs: StringHistogram = corp.ngramHisto(myN,myThreshold)
 
 case class NGReport( count: Int, string: String, urns: Vector[CtsUrn]) {
+
+	// We'll make this more fancy for real Markdown output
 	override def toString: String = {
 		s"""${count}\t${string}\n\n${urns.mkString("\n")}"""
 	}
@@ -42,6 +44,7 @@ lazy val myReports: Vector[NGReport] = myNGs.histogram.map( ng => {
 	NGReport(count, string, urns)
 })
 
+// We'll make this more fancy for real Markdown output
 val report: String = myReports.map( _.toString ).mkString("\n-------\n")
 
 saveString(report, fileName = fileName)
